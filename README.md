@@ -51,14 +51,6 @@ This project implements a **3-layer Deep Neural Network (DNN)** using only NumPy
 | 10    | 0.2068   | -                   |
 | **20**| **0.1366**| **95.07%**          |
 
-**Confusion Matrix** (Sample predictions vs actual labels):
-```
-        0    1    2    3    4    5    6    7    8    9
-    0  813    0    3    1    0    1    6    1    3    0
-    1    0  938    2    1    0    0    1    1    1    0
-    2    1    2  822    5    1    0    1    4    1    1
-    ... [full matrix in notebook]
-```
 
 ## Key Components
 ### 1. Network Architecture
