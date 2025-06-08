@@ -16,11 +16,11 @@ This project implements a **3-layer Deep Neural Network (DNN)** using only NumPy
 ## Project Structure
 ```
 .
-├── DNN_using_NumPy.ipynb      # Main Jupyter notebook with implementation
+├── DNN_using_NumPy.ipynb                              # Main Jupyter notebook with implementation
 ├── Neural Networks and Deep Learning (Notes).pdf      # Notes explaining Mathematical part of Neural Networks
-├── train.csv                   # MNIST training data (CSV format)
-├── README.md                   # This documentation
-└── requirements.txt            # Python dependencies
+├── train.csv                                          # MNIST training data (CSV format)
+├── README.md                                          # This documentation
+└── requirements.txt                                   # Python dependencies
 ```
 
 ## How to Run
